@@ -17,7 +17,6 @@ namespace MegaPrime
                     break;
                 else
                     Console.WriteLine("Number invalid, try again");
-
             }
 
             //Displays the output on the console
